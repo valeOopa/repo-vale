@@ -1,4 +1,4 @@
-# papa-vale
+#Repositiorio uno en el curso de GIT
 Otro repo mas
 
 ## Descripción 
