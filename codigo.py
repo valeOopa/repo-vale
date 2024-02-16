@@ -1,4 +1,4 @@
-nombre = "Valentinou"
+nombre = "Valentinoou"
 
 apellido = "Delgadino"
 
