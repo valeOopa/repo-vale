@@ -1,4 +1,4 @@
-nombre = "Pepe"
+nombre = "Pepesito"
 
 apellido = "Delgadino"
 
