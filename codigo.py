@@ -1,4 +1,4 @@
-nombre = "Valentino"
+nombre = "Soy"
 
 apellido = "Delgadino"
 
